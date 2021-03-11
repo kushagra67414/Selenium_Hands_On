@@ -38,7 +38,7 @@ public class test1 {
 	driver.findElement(By.className("a-checkbox"));
 	
 	WebElement pssbutton = driver.findElement(By.id("ap_password"));
-	pssbutton.sendKeys("Aaaaaaaa@121");
+	pssbutton.sendKeys("**********");
 	pssbutton.submit();
 }
 	
