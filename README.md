@@ -26,3 +26,7 @@ Everything About Automated Testing using Selenium
 
 [Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/Parameterize%20Data%20Using%20Excel%20Sheet)
 
+* Experiment-7 => Integrate extent report with automation scripts for result reporting.
+
+[Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/Extent%20Report%20Generation)
+
