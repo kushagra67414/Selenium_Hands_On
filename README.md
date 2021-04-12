@@ -21,3 +21,8 @@ Everything About Automated Testing using Selenium
 * Experiment-5 => Execute automation script developed on Chrome and Firefox browsers
 
 [Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/Automated%20Script%20for%20diff%20Browser)
+
+* Experiment-6 => Use the data driven test automation framework to parameterize the data using data from an Excel Sheet.
+
+[Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/Parameterize%20Data%20Using%20Excel%20Sheet)
+
