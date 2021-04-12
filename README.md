@@ -30,3 +30,6 @@ Everything About Automated Testing using Selenium
 
 [Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/Extent%20Report%20Generation)
 
+* Experiment-8 => Integrate automation scripts with Jenkins for execution on build deployment.
+
+[Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/Generating%20Report%20using%20Jenkins)
