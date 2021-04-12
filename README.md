@@ -14,3 +14,7 @@ Everything About Automated Testing using Selenium
 
 [Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/TestNG%20Framework%20Validation)
 
+* Experiment-4 => Implement the parameterized data for the automation script build in starting
+
+[Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/parameterized%20data%20for%20the%20automation)
+
