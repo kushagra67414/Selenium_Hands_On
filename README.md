@@ -12,3 +12,5 @@ Everything About Automated Testing using Selenium
 
 * Experiment-3 => Build an automation script for navigating to the article details page and validate all the details for an article using Test-NG framework
 
+[Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/TestNG%20Framework%20Validation)
+
