@@ -18,3 +18,6 @@ Everything About Automated Testing using Selenium
 
 [Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/parameterized%20data%20for%20the%20automation)
 
+* Experiment-5 => Execute automation script developed on Chrome and Firefox browsers
+
+[Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/Automated%20Script%20for%20diff%20Browser)
