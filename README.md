@@ -33,3 +33,8 @@ Everything About Automated Testing using Selenium
 * Experiment-8 => Integrate automation scripts with Jenkins for execution on build deployment.
 
 [Click Here](https://github.com/kushagra67414/Selenium_Hands_On/tree/main/Generating%20Report%20using%20Jenkins)
+
+
+
+## Project
+[Click here to explore a selenium Project => Myntra Automation Using Selenium](https://github.com/kushagra67414/Myntra_Automation_Using_Selenium)
